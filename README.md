@@ -13,9 +13,9 @@ braching
 
 """
 2.switching between branch
-"""bash
+'''bash
      git switch brach name
-"""
+'''
 3.merging
 
 ''''bash
@@ -23,10 +23,11 @@ git merdeg sourcebrnch
 '''
 
 4.conflicts
-"""bash
+'''bash
 git merge tool
-"""
+'''
 5.list all branches
+6.Alist of extra commands
 git branch
 git branch -v
 git status
