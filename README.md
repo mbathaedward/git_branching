@@ -37,3 +37,7 @@ git branch --merged
 -list unmerdeged commmits
 git branch --no -merged
 
+###bonus command
+'''
+git log
+'''
